@@ -1,2 +1,4 @@
 canada
 usa
+mexico
+ghana
