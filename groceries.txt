@@ -4,3 +4,5 @@ Fish
 Grapes
 Tomatoes
 Oranges
+Meat
+Rice
